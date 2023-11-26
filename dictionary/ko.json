@@ -1,0 +1,7 @@
+{
+  "welcome": "어서오세요!",
+  "counter": {
+    "increment": "증가",
+    "decrement": "감소"
+  }
+}

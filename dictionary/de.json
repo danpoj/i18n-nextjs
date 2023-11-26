@@ -1,0 +1,7 @@
+{
+  "welcome": "Willkommen",
+  "counter": {
+    "increment": "Zuwachs",
+    "decrement": "Dekrementieren"
+  }
+}
